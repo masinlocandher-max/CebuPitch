@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07182b"/>
+      <stop offset="1" stop-color="#0d4eb9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#2f7df0" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#2f7df0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="330" fill="url(#glow)"/>
+  <text x="76" y="78" fill="#d6ad62" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="3">CEBU × COGNITA</text>
+  <text x="72" y="210" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="900">CEBU AI</text>
+  <text x="72" y="315" fill="#6fa7ff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="900">READINESS</text>
+  <text x="72" y="420" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="900">INITIATIVE</text>
+  <text x="76" y="505" fill="#c0d0e6" font-family="Arial,Helvetica,sans-serif" font-size="30">From training people to building provincial capability.</text>
+  <text x="76" y="565" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">A proposed partnership with the Province of Cebu</text>
+</svg>
